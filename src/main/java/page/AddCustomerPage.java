@@ -78,6 +78,8 @@ public class AddCustomerPage extends BasePage {
 		}
 		else {
 			System.out.println("No limit is set");
+			System.out.println("and the designer is amazing");
+			
 		}
 	}
 
