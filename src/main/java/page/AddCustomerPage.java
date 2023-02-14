@@ -81,6 +81,7 @@ public class AddCustomerPage extends BasePage {
 		System.out.println("Hello GitHub");
 		System.out.println("hello AGain");
 		System.out.println("trying again !");
+		System.out.println("fiNAL TRY");
 			
 		}
 	}
